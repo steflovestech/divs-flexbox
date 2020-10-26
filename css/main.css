@@ -128,9 +128,9 @@ body {
   align-items: center;
 }
 
-p {
+.text {
     display: flex;
-    width: 90%;
+    width: 80%;
 }
 
 
